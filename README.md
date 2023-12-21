@@ -5,3 +5,5 @@ This is the Opepen typeface. We invite the Opepen community to use the fonts fre
 3. Round Solid and Outline
 
 All fonts are released under the CC0 license.
+
+Mentioning or crediting the authors is mandatory. 
